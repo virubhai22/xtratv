@@ -1,0 +1,57 @@
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aZ0f85I.png" group-title="Music",9x Jhakaas
+https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F17QtN2.png" group-title="Music",9XM 
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KSxPLJA.png" group-title="Music",B4U Music India 
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lxgXHx4.png" group-title="Music",Mastiii
+https://sablive-ddpb.akamaized.net/mastii/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kXTCYqg.png" group-title="Music",Music India 
+https://cdn-2.pishow.tv/live/226/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zm4Fhah.png" group-title="Music",ShowBox
+https://epiconvh.akamaized.net/live/showbox/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10605.jpg" group-title="Music",9X_Jalwa
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/smrfgn.png" group-title="Music",Shemaroo Filmigaane
+https://mix.drmlive.net/mix/xiaomi-66122.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SRGMUS/TV/thumbnail/logo_tv.png" group-title="Music",Saregama Music
+https://saregama.cdn.runn.tv/saregama/saregama_master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYRAG/TV/thumbnail/ee2bcbec-b42c-4179-b3d5-57d780349c0d.png" group-title="Music",NH BollyRaga
+https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYRAG/TV/thumbnail/ee2bcbec-b42c-4179-b3d5-57d780349c0d.png" group-title="Movie",NH BollyGold
+https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYRAG/TV/thumbnail/ee2bcbec-b42c-4179-b3d5-57d780349c0d.png" group-title="Movie",NH BollyFlix
+https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYRAG/TV/thumbnail/ee2bcbec-b42c-4179-b3d5-57d780349c0d.png" group-title="Movie",NH BollyFlix
+https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gg-dl/ABS2GSljIAxWLE1vFRaV-Kj4RnQwcGBZR8PYB3Rww9_mHJE8LkorAvKKF8sbL9nikncpLLZAiHgs56WaNj2Cc5O7puTNfzfixJoveVUeGT-zF1FXT7NaBq3PIMo8B1vaJ-gvBPHcB3ndlMp-9N8iqyzguZlyNOfyKAF5hvCHJw1TVOpy7a_pbg=s1024-rj" group-title="Movie",Shemaroo JOSH
+https://cdn.live.shemaroome.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/media_b1628000_sleng_3453.ts?hdnts=st%3D1762956169%7Eexp%3D1762966969%7Eacl%3D*%7Edata%3Dtestdata%7Ehmac%3D6f81be6aadff81156f872b330ace51e72f1c1b8c515f33acc977b97a7199d221
+
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cqjaNRlc.png" group-title="Movie",GOLDMINES
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/7eCbCXa8.png" group-title="Movie",GOLDMINES MOVIES
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gg-dl/ABS2GSnp1g0oT9FapgqYUeRd7nI-bxZ1DjGEale9pDWboM7Q8SbiR2H4U7DhP1FuhsxjJnTrg9U5CXNGXuBSiEbl4AOkj4SqwoCrV0HAmMpRa-l1sndzFv7_x0PQ61gCyQ3r5C5izW1HKxEv-FM_9eVM3ufdHPgIUVRy6jFhHb_zhMUqzm4vVA=s1024-rjg" group-title="Movie",GOLDMINES 2
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/aewkdICN.png" group-title="Movie",GOLDMINES BOLLYWOOD
+https://m3umergers.xyz/opplex/streams.php?id=112973
+
+
+
+
