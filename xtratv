@@ -28,16 +28,16 @@ https://saregama.cdn.runn.tv/saregama/saregama_master.m3u8
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYRAG/TV/thumbnail/ee2bcbec-b42c-4179-b3d5-57d780349c0d.png" group-title="Music",NH BollyRaga
 https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYRAG/TV/thumbnail/ee2bcbec-b42c-4179-b3d5-57d780349c0d.png" group-title="Movie",NH BollyGold
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blygld.png?width=200" group-title="Movie",NH BollyGold
 https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYRAG/TV/thumbnail/ee2bcbec-b42c-4179-b3d5-57d780349c0d.png" group-title="Movie",NH BollyFlix
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyflx.png?width=200" group-title="Movie",NH BollyFlix
 https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYRAG/TV/thumbnail/ee2bcbec-b42c-4179-b3d5-57d780349c0d.png" group-title="Movie",NH BollyFlix
 https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gg-dl/ABS2GSljIAxWLE1vFRaV-Kj4RnQwcGBZR8PYB3Rww9_mHJE8LkorAvKKF8sbL9nikncpLLZAiHgs56WaNj2Cc5O7puTNfzfixJoveVUeGT-zF1FXT7NaBq3PIMo8B1vaJ-gvBPHcB3ndlMp-9N8iqyzguZlyNOfyKAF5hvCHJw1TVOpy7a_pbg=s1024-rj" group-title="Movie",Shemaroo JOSH
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/bi3rpbyeo/Gemini_Generated_Image_pdcx7lpdcx7lpdcx.png?updatedAt=1762963386579" group-title="Movie",Shemaroo JOSH
 https://cdn.live.shemaroome.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/media_b1628000_sleng_3453.ts?hdnts=st%3D1762956169%7Eexp%3D1762966969%7Eacl%3D*%7Edata%3Dtestdata%7Ehmac%3D6f81be6aadff81156f872b330ace51e72f1c1b8c515f33acc977b97a7199d221
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cqjaNRlc.png" group-title="Movie",GOLDMINES
@@ -51,6 +51,17 @@ https://cdn-2.pishow.tv/live/1460/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/aewkdICN.png" group-title="Movie",GOLDMINES BOLLYWOOD
 https://m3umergers.xyz/opplex/streams.php?id=112973
+
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/DMlor4ys.png" group-title="Movie",B4U Movies
+https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/IwWnBbSr.png" group-title="Movie",B4U Kadak
+https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-235.jpg" group-title="Movie",B4U DHAMAKA MOVIES
+https://cdn-1.pishow.tv/live/235/master.m3u8
+
+
 
 
 
