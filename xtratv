@@ -11,7 +11,7 @@ https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 https://sablive-ddpb.akamaized.net/mastii/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kXTCYqg.png" group-title="Music",Music India 
-https://cdn-2.pishow.tv/live/226/master.m3u8
+https://jmp2.uk/stvp-INBD4700015M0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zm4Fhah.png" group-title="Music",ShowBox
 https://epiconvh.akamaized.net/live/showbox/master.m3u8
@@ -34,7 +34,7 @@ https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyflx.png?width=200" group-title="Movie",NH BollyFlix
 https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ik.imagekit.io/bi3rpbyeo/Gemini_Generated_Image_pdcx7lpdcx7lpdcx.png?updatedAt=1762963386579" group-title="Movie",Shemaroo JOSH
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/bi3rpbyeo/Gemini_Generated_Image_pdcx7lpdcx7lpdcx-removebg-preview.png?updatedAt=1763025246107" group-title="Movie",Shemaroo JOSH
 https://cdn.live.shemaroome.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/media_b1628000_sleng_3453.ts?hdnts=st%3D1762956169%7Eexp%3D1762966969%7Eacl%3D*%7Edata%3Dtestdata%7Ehmac%3D6f81be6aadff81156f872b330ace51e72f1c1b8c515f33acc977b97a7199d221
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cqjaNRlc.png" group-title="Movie",GOLDMINES
@@ -106,7 +106,7 @@ https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="Movies",Zee Cine Classic
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ik.imagekit.io/bi3rpbyeo/Gemini_Generated_Image_c58yvic58yvic58y.png?updatedAt=1762976101454" group-title="Entertainment", DD National HD
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/bi3rpbyeo/Gemini_Generated_Image_c58yvic58yvic58y-removebg-preview.png?updatedAt=1763025246260" group-title="Entertainment", DD National HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1700011V7_20241024T054054SQUARE.png" group-title="Entertainment",Nazara
