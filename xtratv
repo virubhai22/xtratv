@@ -115,6 +115,9 @@ https://d282a7rzpbl0nj.cloudfront.net/live/nazara/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4B4Nfr3v.png" group-title="Entertainment",Ishara TV
 https://d282a7rzpbl0nj.cloudfront.net/live/ishaara/master_1080.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uUJz1tC.png" group-title="Entertainment",Sun Marathi
+https://live.dinesh29.com.np/stream/jiotvplus/sunmarathi/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/Images/CNBC-All-Logos-White_AWAAZ-400-x-200.png" group-title="News",CNBC Awaaz
 https://amg00866-amg00866c2-lg-in-3525.playouts.now.amagi.tv/playlist/amg00866-tv18broadcastlimitedfast-cnbcawaaz-lgin/playlist.m3u8
 
