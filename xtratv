@@ -31,6 +31,9 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYRAG/TV/thumbnail/ee2bcbec-b42c-4179-b3d5-57d780349c0d.png" group-title="Music",NH BollyRaga
 https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
 
+#EXTINF:-1 tvg-id="zoom2" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jLvKrs62.png" group-title="Music", Zoom
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blygld.png?width=200" group-title="Movie",NH BollyGold
 https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
 
@@ -95,7 +98,7 @@ http://66.102.120.18:8000/play/a00c
 https://sablive-ddpb.akamaized.net/maiboli/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wow_Cinema_One.png?width=300" group-title="Movie",WOW CINEMA ONE
-https://cdn-2.pishow.tv/live/231/master.m3u8
+http://202.164.50.194:8000/play/a043/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Gubbare-TV_channel.jpg/375px-Gubbare-TV_channel.jpg" group-title="Kids",Gubbare TV
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
