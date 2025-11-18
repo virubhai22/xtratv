@@ -25,6 +25,9 @@ https://mix.drmlive.net/mix/xiaomi-66122.m3u8
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SRGMUS/TV/thumbnail/logo_tv.png" group-title="Music",Saregama Music
 https://saregama.cdn.runn.tv/saregama/saregama_master.m3u8
 
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/bi3rpbyeo/ChatGPT_Image_Nov_18__2025__11_48_56_AM-removebg-preview.png?updatedAt=1763446859257" group-title="Music",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYRAG/TV/thumbnail/ee2bcbec-b42c-4179-b3d5-57d780349c0d.png" group-title="Music",NH BollyRaga
 https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
 
