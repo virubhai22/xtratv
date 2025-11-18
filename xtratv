@@ -44,19 +44,22 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/bi3rpbyeo/Gemini_Generated_Image_pdcx7lpdcx7lpdcx-removebg-preview.png?updatedAt=1763025246107" group-title="Movie",Shemaroo JOSH
-https://cdn.live.shemaroome.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/media_b1628000_sleng_3453.ts?hdnts=st%3D1762956169%7Eexp%3D1762966969%7Eacl%3D*%7Edata%3Dtestdata%7Ehmac%3D6f81be6aadff81156f872b330ace51e72f1c1b8c515f33acc977b97a7199d221
+http://202.164.50.194:8000/play/a03k/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cqjaNRlc.png" group-title="Movie",GOLDMINES
-https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cqjaNRlc.png" group-title="Movie",Goldmines
+http://202.164.50.194:8000/play/a02x/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/7eCbCXa8.png" group-title="Movie",GOLDMINES MOVIES
-https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/7eCbCXa8.png" group-title="Movie",Goldmines Movies
+http://202.164.50.194:8000/play/a02l/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ik.imagekit.io/bi3rpbyeo/Gemini_Generated_Image_u9hgpyu9hgpyu9hg-removebg-preview.png?updatedAt=1763025508190" group-title="Movie",GOLDMINES 2
-https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/7eCbCXa8.png" group-title="Movie",Goldmines Action
+http://202.164.50.194:8000/play/a039/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/aewkdICN.png" group-title="Movie",GOLDMINES BOLLYWOOD
-https://m3umergers.xyz/opplex/streams.php?id=112973
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/bi3rpbyeo/Gemini_Generated_Image_u9hgpyu9hgpyu9hg-removebg-preview.png?updatedAt=1763025508190" group-title="Movie",Goldmines 2
+http://202.164.50.194:8000/play/a02n/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/aewkdICN.png" group-title="Movie",Goldmines Bollywood
+http://202.164.50.194:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/DMlor4ys.png" group-title="Movie",B4U Movies
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
@@ -109,6 +112,9 @@ https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 #EXTINF:-1 tvg-logo="https://d3s2p39m306u7r.cloudfront.net/atrangii/LG/Atrangii_FullandFinal.png" group-title="Entertainment",Atrangii
 https://amg13343-amg13343c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13343-amg13343c1-amgplt0173/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/LvU6PFfM.png" group-title="Entertainment",Epic TV
+https://d282a7rzpbl0nj.cloudfront.net/live/epic/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="Movies",Zee South Flix
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
 
@@ -126,6 +132,9 @@ https://d282a7rzpbl0nj.cloudfront.net/live/ishaara/master_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uUJz1tC.png" group-title="Entertainment",Sun Marathi
 https://live.dinesh29.com.np/stream/jiotvplus/sunmarathi/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/bi3rpbyeo/Opera_Snapshot_2025-11-18_225947_www.dangalplay.com-removebg-preview.png" group-title="Entertainment",DANGAL 2
+http://202.164.50.194:8000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/Images/CNBC-All-Logos-White_AWAAZ-400-x-200.png" group-title="News",CNBC Awaaz
 https://amg00866-amg00866c2-lg-in-3525.playouts.now.amagi.tv/playlist/amg00866-tv18broadcastlimitedfast-cnbcawaaz-lgin/playlist.m3u8
