@@ -55,7 +55,7 @@ http://202.164.50.194:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/7eCbCXa8.png" group-title="Movie",Goldmines Movies
 http://202.164.50.194:8000/play/a02l/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/7eCbCXa8.png" group-title="Movie",Goldmines Action
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/bi3rpbyeo/ChatGPT_Image_Nov_18__2025__11_18_31_PM-removebg-preview.png?updatedAt=1763488164706" group-title="Movie",Goldmines Action
 http://202.164.50.194:8000/play/a039/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/bi3rpbyeo/Gemini_Generated_Image_u9hgpyu9hgpyu9hg-removebg-preview.png?updatedAt=1763025508190" group-title="Movie",Goldmines 2
