@@ -134,7 +134,7 @@ https://d282a7rzpbl0nj.cloudfront.net/live/nazara/master_1080.m3u8
 https://d282a7rzpbl0nj.cloudfront.net/live/ishaara/master_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uUJz1tC.png" group-title="Entertainment",Sun Marathi
-https://live.dinesh29.com.np/stream/jiotvplus/sunmarathi/master.m3u8
+https://servertvhub.site/jio/app/ts_live_2424.m3u8
 
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/bi3rpbyeo/Opera_Snapshot_2025-11-18_225947_www.dangalplay.com-removebg-preview.png" group-title="Entertainment",DANGAL 2
 http://202.164.50.194:8000/play/a00p/index.m3u8
