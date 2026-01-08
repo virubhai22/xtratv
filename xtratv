@@ -53,7 +53,7 @@ http://202.164.50.194:8000/play/a039/index.m3u8
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/aewkdICN.png" group-title="Movie",Goldmines Bollywood
-https://ranapk.online/OPPLEX/RANAPK3/play.php?id=112973||http-user-agent=RANAPK
+https://ranapk.online/OPPLEX/RANAPK3/play.php?id=112973
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/DMlor4ys.png" group-title="Movie",B4U Movies
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
