@@ -97,6 +97,9 @@ https://amg13343-amg13343c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13343-a
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/LvU6PFfM.png" group-title="Entertainment",Epic TV
 https://d282a7rzpbl0nj.cloudfront.net/live/epic/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233W0W.png" group-title="Entertainment",Zee Talkies HD
+https://ranapk.online/OPPLEX/RANAPK3/play.php?id=380818
+
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="Movies",Zee South Flix
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
 
