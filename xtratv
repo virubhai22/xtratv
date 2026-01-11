@@ -127,6 +127,9 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8?
 #EXTINF:-1 tvg-id="news-marathi-24x7" tvg-logo="https://a.jsrdn.com/hls/23215/news-marathi-24x7/poster_20250611_210317.jpg" group-title="Regional News",News Marathi 24X7
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-marathi-24x7/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/39653c3dd5a214be8106cbf2e007bf29.png" group-title="Entertainment",Colors HD
+https://servertvhub.site/jio/app/ts_live_144.m3u8
+
 
 
 
