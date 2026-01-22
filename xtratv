@@ -97,9 +97,6 @@ https://amg13343-amg13343c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13343-a
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/LvU6PFfM.png" group-title="Entertainment",Epic TV
 https://d282a7rzpbl0nj.cloudfront.net/live/epic/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233W0W.png" group-title="Entertainment",Zee Talkies HD
-https://billatv.netlify.app/.netlify/functions/Opplex?id=380818&e=.m3u8
-
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="Movies",Zee South Flix
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
 
@@ -127,8 +124,6 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8?
 #EXTINF:-1 tvg-id="news-marathi-24x7" tvg-logo="https://a.jsrdn.com/hls/23215/news-marathi-24x7/poster_20250611_210317.jpg" group-title="Regional News",News Marathi 24X7
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-marathi-24x7/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/39653c3dd5a214be8106cbf2e007bf29.png" group-title="Entertainment",Colors HD
-https://servertvhub.site/jio/app/ts_live_144.m3u8
 
 
 
