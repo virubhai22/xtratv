@@ -113,7 +113,7 @@ https://d282a7rzpbl0nj.cloudfront.net/live/nazara/master_1080.m3u8
 https://d282a7rzpbl0nj.cloudfront.net/live/ishaara/master_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/bi3rpbyeo/Opera_Snapshot_2025-11-18_225947_www.dangalplay.com-removebg-preview.png" group-title="Entertainment",DANGAL 2
-https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+https://live-dangal2.akamaized.net/liveabr/pub-iodanga2a26kj2/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Aaj_Tak_HD_v2.png/revision/latest?cb=20210310202037" group-title="News",Aaj Tak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
