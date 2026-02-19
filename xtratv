@@ -40,6 +40,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="Bollywood.Classic.in" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/0b/Bollywood_Clasic_(2018-.n.v.).png" group-title="Movie",Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2f66f13b85531977f2990c18ca414e83.png" group-title="Movie",Shemaroo Bollywood
+https://smr-runntv-blywd.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/bi3rpbyeo/Gemini_Generated_Image_pdcx7lpdcx7lpdcx-removebg-preview.png?updatedAt=1763025246107" group-title="Movie",Shemaroo JOSH
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 
