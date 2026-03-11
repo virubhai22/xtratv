@@ -8,13 +8,13 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zm4Fhah.png" group-title="Music",ShowBox
-https://epiconvh.akamaized.net/live/showbox/master.m3u8
+https://restream-bay.vercel.app/?id=383529&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10605.jpg" group-title="Music",9X Jalwa
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/smrfgn.png" group-title="Music",Shemaroo Filmigaane
-https://mix.drmlive.net/mix/xiaomi-66122.m3u8
+https://smr-runntv-flmgn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/e24-black.png" group-title="Music",E 24
 https://amg13643-amg13643c2-amgplt0173.playout.now3.amagi.tv/playlist/amg13643-amg13643c2-amgplt0173/playlist.m3u8
@@ -59,7 +59,7 @@ http://202.164.50.194:8000/play/a039/index.m3u8
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/aewkdICN.png" group-title="Movie",Goldmines Bollywood
-https://ranapk.online/OPPLEX/RANAPK1/play.php?id=112973|User-Agent=RANAPK
+https://restream-bay.vercel.app/?id=112973&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/DMlor4ys.png" group-title="Movie",B4U Movies
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
