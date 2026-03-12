@@ -52,8 +52,8 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/7eCbCXa8.png" group-title="Movie",Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Feb-7-2026-09_26_47-AM-1-200x300.png" group-title="Movie",Indian Cinema Bollywood
-https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
+#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-25-2026-11_20_45-PM-1-200x300.png" group-title="Movie",BollyGold
+https://nhstudio.vgcdn.net/v1/019c6f6ccfb71567ee931d808fa98f/019c6f7cedea1567ee931d808fa993/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/bi3rpbyeo/Gemini_Generated_Image_u9hgpyu9hgpyu9hg-removebg-preview.png?updatedAt=1763025508190" group-title="Movie",Goldmines 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
@@ -103,7 +103,7 @@ https://amg13343-amg13343c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13343-a
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/eb19cec9335b849dc6fe4b6324449f46.png" group-title="Entertainment",Arre
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/arre/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/bollywood-indian-cinema-film-banner-logo-sign-design-glowing-element-152283243.jpg?w=768" group-title="Movie",The Movie Club
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/bollywood-indian-cinema-film-banner-logo-sign-design-glowing-element-152283243.jpg?w=768" group-title="Movie",Cinema Bollywood
 https://vods2.aynaott.com/hindimovies/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="Movie",Zee South Flix
