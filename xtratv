@@ -82,8 +82,8 @@ https://cdn-1.pishow.tv/live/1013/master.m3u8
 #EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Feb-7-2026-09_28_28-AM-1-200x300.png" group-title="Movie",South Station
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10648.jpg" group-title="Movie",ABZY DHAKAD
-https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
+#EXTINF:-1 tvg-id="4" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_PKTFLM/Web/thumbnail/logo_web.png" group-title="Entertainment",Pocket Films
+https://pktflm.cdn.runn.tv/runntv/stream/p_pktflm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Feb-7-2026-09_26_47-AM-1-200x300.png" group-title="Movie",The Movie Club
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
