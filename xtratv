@@ -122,7 +122,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/in
 https://d282a7rzpbl0nj.cloudfront.net/live/nazara/master_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4B4Nfr3v.png" group-title="Entertainment",Ishara TV
-https://fusion4k.hakunamata.workers.dev/3343/index.m3u8
+http://stalker.hakunamata.workers.dev/play/2248/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png/revision/latest?cb=20210514114903" group-title="Entertainment",DANGAL
 https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
