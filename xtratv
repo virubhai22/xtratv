@@ -34,8 +34,8 @@ https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyflx.png?width=200" group-title="Movie",NH BollyFlix
 https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Bollywood.HD.in" tvg-name="" tvg-logo="https://www.pasjatv.pl/files/tv/photo/min/160639773975_bollywood-hd-inne.png" group-title="Movie",Bollywood Movie HD
-https://fusion4k.hakunamata.workers.dev/3523/index.m3u8
+#EXTINF:-1 tvg-id="Bollywood.HD.in" tvg-name="" tvg-logo="https://ik.imagekit.io/bi3rpbyeo/vlcsnap-2026-04-17-11h04m36s870.png" group-title="Movie",CineMania Bollywood
+http://stalker.hakunamata.workers.dev/play/3464/index.m3u8
 
 #EXTINF:-1 tvg-id="Manoranjan Movies" tvg-name="" tvg-logo="https://dtil.tmsimg.com/assets/s143303_ld_h15_aa.png?lock=720x540" group-title="Movie",Manoranjan Movies
 http://103.213.31.109:90/ManoranjanMovies/playlist.m3u8
