@@ -79,8 +79,8 @@ https://cdn-4.pishow.tv/live/1474/master.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143304_ld_h15_aa.png?lock=360x270" group-title="Movie",MANORANJAN TV
 http://103.213.31.109:90/ManoranjanTv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Feb-7-2026-09_28_28-AM-1-200x300.png" group-title="Movie",South Station
-https://fusion4k.hakunamata.workers.dev/3974/index.m3u8
+#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Feb-7-2026-09_28_28-AM-1-200x300.png" group-title="Movie",South Hindi Dubbed
+http://stalker.hakunamata.workers.dev/play/2539/index.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_PKTFLM/Web/thumbnail/logo_web.png" group-title="Entertainment",Pocket Films
 https://pktflm.cdn.runn.tv/runntv/stream/p_pktflm/playlist.m3u8
